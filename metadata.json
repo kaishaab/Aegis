@@ -1,0 +1,10 @@
+{
+  "name": "AEGIS",
+  "description": "for every woman who refuses to live in fear - A women's safety-focused navigation and check-in app with safety heatmaps, SOS alerts, periodic check-ins, and community reviews in a pink pop aesthetic.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
